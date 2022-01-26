@@ -1,15 +1,17 @@
 # FOSS-Software
 Free and/or open source software I use on a weekly basis as an open source CAD technician and daily Linux user.
 
-**Software categorized by purpose and ranked by the frequency at I use them**
+**Software categorized by purpose and ranked by the frequency at I use them.**
 
 ## Linux
+Check out my Linux terminal commands cheat sheet [here](https://github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets)!
 
 1) [Ubuntu Budgie](https://ubuntubudgie.org/)
 2) [Ubuntu MATE](https://ubuntu-mate.org/)
 3) [Debian](https://www.debian.org/)
 
 ## CAD
+Check out my cheat sheets for [FreeCAD](https://github.com/EvokeMadness/FreeCAD-Cheat-Sheets) and [SALOME](https://github.com/EvokeMadness/SALOME-Cheat-Sheets)!
 
 1) [Cad Assistant](https://www.opencascade.com/products/cad-assistant/)
 2) [OpenVSP](http://openvsp.org/)
