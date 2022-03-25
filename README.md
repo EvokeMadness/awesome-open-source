@@ -4,7 +4,7 @@ Free and/or open source software I use on a weekly basis as an open source CAD t
 **Software categorized by purpose and ranked by the frequency at I use them.**
 
 ## Linux
-Check out my Linux terminal commands cheat sheet [here](https://github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets)!
+Check out my Linux terminal commands cheat sheet here: [github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets](https://github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets)
 
 1) [Ubuntu Budgie](https://ubuntubudgie.org/)
 2) [Ubuntu MATE](https://ubuntu-mate.org/)
