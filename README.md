@@ -4,20 +4,25 @@ Free and/or open source software I use on a weekly basis as an open source CAD t
 **Software categorized by purpose and ranked by the frequency at I use them.**
 
 ## Linux
-Check out my Linux terminal commands cheat sheet here: [github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets](https://github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets)
 
 1) [Ubuntu Budgie](https://ubuntubudgie.org/)
 2) [Ubuntu MATE](https://ubuntu-mate.org/)
 3) [Debian](https://www.debian.org/)
 
+Check out my Linux terminal commands cheat sheet here: [github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets](https://github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets)
+
 ## CAD
-Check out my cheat sheets for [FreeCAD](https://github.com/EvokeMadness/FreeCAD-Cheat-Sheets) and [SALOME](https://github.com/EvokeMadness/SALOME-Cheat-Sheets)!
 
 1) [Cad Assistant](https://www.opencascade.com/products/cad-assistant/)
 2) [OpenVSP](http://openvsp.org/)
 3) [SALOME](https://www.salome-platform.org/)
 4) [QCAD](https://www.qcad.org/en/)
 5) [MeshLab](https://www.meshlab.net/)
+
+Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
+
+- [github.com/EvokeMadness/FreeCAD-Cheat-Sheets](https://github.com/EvokeMadness/FreeCAD-Cheat-Sheets)
+- [github.com/EvokeMadness/SALOME-Cheat-Sheets](https://github.com/EvokeMadness/SALOME-Cheat-Sheets)
 
 ## Creative
 
