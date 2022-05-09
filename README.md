@@ -17,7 +17,8 @@ Check out my Linux terminal commands cheat sheet here: [github.com/EvokeMadness/
 2) [OpenVSP](http://openvsp.org/)
 3) [SALOME](https://www.salome-platform.org/)
 4) [QCAD](https://www.qcad.org/en/)
-5) [MeshLab](https://www.meshlab.net/)
+5) [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
+6) [MeshLab](https://www.meshlab.net/)
 
 Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
 
@@ -44,6 +45,10 @@ Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
 2) [OBS Studio](https://obsproject.com/)
 3) [HandBrake](https://handbrake.fr/)
 
+#### Free
+
+1) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
+
 ## Image
 
 1) [darktable](https://www.darktable.org/)
@@ -51,6 +56,8 @@ Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
 ## Sound
 
 1) [Audacity](https://www.audacityteam.org/)
+2) [Sonic Pi](https://sonic-pi.net/)
+3) [LMMS](https://lmms.io/)
 
 ## Office
 
@@ -64,3 +71,4 @@ Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
 ## Library
 
 1) [FFmpeg](https://www.ffmpeg.org/)
+
