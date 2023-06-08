@@ -1,5 +1,5 @@
 # FOSS-Software
-Free and/or open source software I use on a weekly basis as an open source CAD technician and daily Linux user.
+Free and/or open source software I use on a weekly basis as an open source CAD drafter and daily Linux user.
 
 **Software categorized by purpose and ranked by the frequency at I use them.**
 
@@ -8,8 +8,9 @@ Free and/or open source software I use on a weekly basis as an open source CAD t
 1) [Ubuntu Budgie](https://ubuntubudgie.org/)
 2) [Ubuntu MATE](https://ubuntu-mate.org/)
 3) [Debian](https://www.debian.org/)
+4) [Linux Mint](https://linuxmint.com/)
 
-Check out my Linux terminal commands cheat sheet here: [github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets](https://github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets)
+Check out my Linux command line cheat sheet here: [github.com/EvokeMadness/linux-command-line-cheat-sheet](https://github.com/EvokeMadness/linux-command-line-cheat-sheet)
 
 ## CAD
 
@@ -19,6 +20,8 @@ Check out my Linux terminal commands cheat sheet here: [github.com/EvokeMadness/
 4) [QCAD](https://www.qcad.org/en/)
 5) [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
 6) [MeshLab](https://www.meshlab.net/)
+7) [Gmsh](https://gmsh.info/)
+8) [FreeCAD](https://www.freecad.org/)
 
 Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
 
@@ -30,6 +33,7 @@ Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
 1) [Inkscape](https://inkscape.org/)
 2) [GNU Image Manipulation Program](https://www.gimp.org/)
 3) [Blender](https://www.blender.org/)
+4) [TrenchBroom](https://trenchbroom.github.io/)
 
 ## Project Management
 
@@ -37,13 +41,14 @@ Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
 
 ## Games
 
-1) [MultiMC](https://multimc.org/)
+1) [Prism Launcher](https://prismlauncher.org/) (Fork of [MultiMC](https://multimc.org/))
 
 ## Video
 
 1) [VLC media player](https://www.videolan.org/vlc/)
 2) [OBS Studio](https://obsproject.com/)
 3) [HandBrake](https://handbrake.fr/)
+4) [ScreenToGif](https://www.screentogif.com/)
 
 #### Free
 
@@ -68,7 +73,7 @@ Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
 
 1) [Geany](https://www.geany.org/)
 
-## Library
+## CLI
 
 1) [FFmpeg](https://www.ffmpeg.org/)
 
