@@ -1,21 +1,18 @@
-# FOSS-Software
-Free and/or open source software I use on a weekly basis as an open source CAD drafter and daily Linux user.
+## FOSS-Software
+Free and/or open source software I use on a weekly basis as a maker and daily Linux user.
 
-**Software categorized by purpose and ranked by the frequency at I use them.**
+### Linux
 
-## Linux
+1) [Linux Mint](https://linuxmint.com/) (My favorite Linux distro!)
 
-1) [Ubuntu Budgie](https://ubuntubudgie.org/)
-2) [Ubuntu MATE](https://ubuntu-mate.org/)
-3) [Debian](https://www.debian.org/)
-4) [Linux Mint](https://linuxmint.com/)
+Check out my Linux terminal cheat sheet!
 
-Check out my Linux command line cheat sheet here: [github.com/EvokeMadness/linux-command-line-cheat-sheet](https://github.com/EvokeMadness/linux-command-line-cheat-sheet)
+[Linux Terminal Cheat Sheets](https://github.com/EvokeMadness/Linux-terminal-cheat-sheets)
 
-## CAD
+### CAD
 
 1) [Cad Assistant](https://www.opencascade.com/products/cad-assistant/)
-2) [OpenVSP](http://openvsp.org/)
+2) [OpenVSP](https://openvsp.org/)
 3) [SALOME](https://www.salome-platform.org/)
 4) [QCAD](https://www.qcad.org/en/)
 5) [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
@@ -23,58 +20,64 @@ Check out my Linux command line cheat sheet here: [github.com/EvokeMadness/linux
 7) [Gmsh](https://gmsh.info/)
 8) [FreeCAD](https://www.freecad.org/)
 
-Check out my cheat sheets for FreeCAD and SALOME! They can be found here:
+Check out my cheat sheets for FreeCAD!
 
-- [github.com/EvokeMadness/FreeCAD-Cheat-Sheets](https://github.com/EvokeMadness/FreeCAD-Cheat-Sheets)
-- [github.com/EvokeMadness/SALOME-Cheat-Sheets](https://github.com/EvokeMadness/SALOME-Cheat-Sheets)
+- [FreeCAD Cheat Sheets](https://github.com/EvokeMadness/FreeCAD-Cheat-Sheets)
 
-## Creative
+### 3D Modeling
+
+1) [Blender](https://www.blender.org/)
+2) [Blockbench](https://www.blockbench.net/)
+3) [TrenchBroom](https://trenchbroom.github.io/)
+
+### Office
+
+1) [Joplin](https://joplinapp.org/)
+2) [drawio](https://www.diagrams.net/)
+3) [LibreOffice](https://www.libreoffice.org/)
+4) [ghostwriter](https://wereturtle.github.io/ghostwriter/)
+5) [Notepad++](https://notepad-plus-plus.org/)
+
+### Games
+
+1) [Prism Launcher](https://prismlauncher.org/) (Fork of [MultiMC](https://multimc.org/))
+2) [ZDoom](https://zdoom.org/index)
+
+### Art
 
 1) [Inkscape](https://inkscape.org/)
 2) [GNU Image Manipulation Program](https://www.gimp.org/)
-3) [Blender](https://www.blender.org/)
-4) [TrenchBroom](https://trenchbroom.github.io/)
-5) [Blockbench](https://www.blockbench.net/)
+3) [Krita](https://krita.org/en/)
+4) [darktable](https://www.darktable.org/)
 
-## Project Management
-
-1) [drawio](https://www.diagrams.net/)
-
-## Games
-
-1) [Prism Launcher](https://prismlauncher.org/) (Fork of [MultiMC](https://multimc.org/))
-
-## Video
+### Video
 
 1) [VLC media player](https://www.videolan.org/vlc/)
 2) [OBS Studio](https://obsproject.com/)
 3) [HandBrake](https://handbrake.fr/)
-4) [ScreenToGif](https://www.screentogif.com/)
 
-#### Free
-
-1) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
-
-## Image
-
-1) [darktable](https://www.darktable.org/)
-
-## Sound
+### Audio
 
 1) [Audacity](https://www.audacityteam.org/)
 2) [Sonic Pi](https://sonic-pi.net/)
 3) [LMMS](https://lmms.io/)
 
-## Office
+### Software and Game Development
 
-1) [ghostwriter](https://wereturtle.github.io/ghostwriter/)
-2) [LibreOffice](https://www.libreoffice.org/)
+1) [Defold](https://defold.com/)
+2) [GB Studio](https://www.gbstudio.dev/)
+3) [Geany](https://www.geany.org/)
 
-## IDE
+### Server
 
-1) [Geany](https://www.geany.org/)
+1) [DigitalOcean](https://www.digitalocean.com/)
+2) [Syncthing](https://syncthing.net/)
 
-## CLI
+### CLI
 
-1) [FFmpeg](https://www.ffmpeg.org/)
+1) [Git](https://git-scm.com/)
+2) [FFmpeg](https://www.ffmpeg.org/)
 
+### MISC
+
+1) [Balena Etcher](https://etcher.balena.io/)
