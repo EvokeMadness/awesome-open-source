@@ -5,10 +5,6 @@ Free and/or open source software I use on a weekly basis as a maker and daily Li
 
 1) [Linux Mint](https://linuxmint.com/) (My favorite Linux distro!)
 
-Check out my Linux terminal cheat sheet!
-
-[Linux Terminal Cheat Sheets](https://github.com/EvokeMadness/Linux-terminal-cheat-sheets)
-
 ### CAD
 
 1) [Cad Assistant](https://www.opencascade.com/products/cad-assistant/)
