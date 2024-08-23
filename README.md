@@ -1,4 +1,4 @@
-## FOSS-Software
+## Awesome Open Source
 Free and/or open source software I use on a weekly basis as a maker and daily Linux user.
 
 ### Linux
